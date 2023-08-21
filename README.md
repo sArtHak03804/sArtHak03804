@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sArtHak03804
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAMstack
-- 💞️ I’m looking to collaborate on **Web Development** 
+- 💞️ I am seeking professional opportunities for collaborative **web development projects**. 
 - 📧 Feel free to [contact me](mailto:patelsarthak666@gmail.com) for collaborations, inquiries, or just to say hi!
 
 
