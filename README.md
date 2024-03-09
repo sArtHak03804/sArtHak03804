@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sArtHak03804
+- 👋 Hi, I’m Sarthak Patel
 - 👀 I’m interested in Web Development
 - 🌐 I'm presently enhancing my expertise in Full Stack Development, exploring its various components and technologies
 - 💞️ I am seeking professional opportunities for collaborative **web development projects**. 
